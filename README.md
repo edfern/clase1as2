@@ -1,2 +1,7 @@
-# clase1as2
-Clase 1 del curso de análisis de sistemas 2
+# clase 1 - Analisis de sistemas ll.
+Ejemplo del uso de Github.com en el curso de analisis de sistemas 2.
+
+## Subtitulos
+descripcion 
+
+
